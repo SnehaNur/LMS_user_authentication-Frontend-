@@ -1,0 +1,360 @@
+.check-mail-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.check-mail-check-mail {
+  width: 100%;
+  height: 575px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.check-mail-component2 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 900px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.check-mail-group4 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 900px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.check-mail-admin-otp-form {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 900px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.check-mail-admin-forgot-password-form {
+  top: 0px;
+  left: -7px;
+  width: 1440px;
+  height: 900px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.check-mail-pleaseenteryourusername {
+  top: 262px;
+  left: 118px;
+  width: 0px;
+  height: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.check-mail-forgot-password {
+  top: 217px;
+  left: 118px;
+  width: 0px;
+  height: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.check-mail-btn-back-right {
+  top: 13px;
+  left: -6px;
+  width: 53px;
+  height: 22px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(55, 205, 60, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 20px 20px 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.check-mail-text1 {
+  top: 4px;
+  left: 13px;
+  color: var(--dl-color-default-11111);
+  height: auto;
+  position: absolute;
+  font-size: 9px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.check-mail-group133551 {
+  top: 130.97543334960938px;
+  left: -180.9276885986328px;
+  width: 228.2021942138672px;
+  height: 425.5855407714844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.check-mail-subtract1 {
+  top: -79.92245482851784px;
+  left: 57.96228476646459px;
+  width: 149px;
+  height: 283px;
+  position: absolute;
+}
+ 
+.check-mail-subtract2 {
+  top: 53.06459355864581px;
+  left: 172.15535720535217px;
+  width: 141px;
+  height: 207px;
+  position: absolute;
+}
+ 
+.check-mail-logo2 {
+  top: 27px;
+  left: 1217px;
+  width: 183px;
+  height: 162px;
+  position: absolute;
+}
+ 
+.check-mail-image1 {
+  top: 576px;
+  left: 1179.8709716796875px;
+  width: 260px;
+  height: 324px;
+  position: absolute;
+}
+ 
+.check-mail-text2 {
+  top: 352.1739196777344px;
+  left: 174.96774291992188px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.check-mail-text3 {
+  top: 283px;
+  left: 166px;
+  color: rgba(0, 160, 220, 1);
+  width: 463px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.check-mail-frame {
+  gap: 8px;
+  top: 419px;
+  left: 175px;
+  width: 413px;
+  height: 47px;
+  display: flex;
+  padding: 12px 16px;
+  position: absolute;
+  box-sizing: content-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(55, 205, 60, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.check-mail-text4 {
+  color: rgba(114, 115, 116, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.check-mail-btn-verify {
+  top: 508px;
+  left: 250px;
+  width: 288px;
+  height: 46px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 15px;
+  background-color: var(--dl-color-default-11111);
+}
+ 
+.check-mail-text5 {
+  top: 12px;
+  left: 108px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.check-mail-group133563 {
+  top: 162px;
+  left: 841px;
+  width: 426px;
+  height: 623px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.check-mail-frame243 {
+  top: 0px;
+  left: 0px;
+  width: 426px;
+  height: 623px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px 0 0 40px;
+  background-color: rgba(255, 255, 255, 0.9300000071525574);
+}
+ 
+.check-mail-text6 {
+  top: 117.01565551757812px;
+  color: rgba(0, 160, 220, 1);
+  width: 385px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.check-mail-text7 {
+  top: 189.6086883544922px;
+  left: 158px;
+  color: rgba(15, 64, 84, 1);
+  width: 84px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.check-mail-text8 {
+  top: 283.8713073730469px;
+  left: 3px;
+  color: rgba(0, 0, 0, 1);
+  width: 397px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+/* OTP input styling */
+.check-mail-frame input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-bottom: 1px solid #000;
+  background: transparent;
+  outline: none;
+  margin-top: 5px;
+}
+
+.check-mail-frame input::placeholder {
+  color: #999;
+  font-size: 14px;
+}
+
+/* Error message styling */
+.check-mail-error {
+  color: red;
+  text-align: center;
+  margin: 10px 0;
+  font-size: 14px;
+}
+
+/* Loading state */
+.check-mail-btn-verify[disabled] {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
